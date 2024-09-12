@@ -69,6 +69,15 @@ The app uses AsyncStorage to store attendance data locally, so the data will be 
 1. Date picker to choose the attendance date.
 2. Search functionality to quickly find a person.
 
+## Dependencies
+
+- `@react-native-async-storage/async-storage`: For persistent local storage.
+- `@react-navigation/native`: For screen navigation.
+- `@react-navigation/stack`: For stack navigation between screens.
+- `react-native-paper`: For UI components like buttons, FAB, and text inputs.
+- `@react-native-community/datetime`: For date and time pickers.
+
+
 ## Folder Structure
 
 ```bash
@@ -81,13 +90,7 @@ attendance-tracker/
 ├── package.json
 └── README.md
 
-## Dependencies
 
-- `@react-native-async-storage/async-storage`: For persistent local storage.
-- `@react-navigation/native`: For screen navigation.
-- `@react-navigation/stack`: For stack navigation between screens.
-- `react-native-paper`: For UI components like buttons, FAB, and text inputs.
-- `@react-native-community/datetime`: For date and time pickers.
 
 
 
