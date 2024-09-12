@@ -47,8 +47,8 @@ To run the app locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/attendance-tracker-app.git
-   cd attendance-tracker-app
+   git clone https://github.com/yashmaurya321-crypto/Attendence.git
+   cd Attendence
 2. Install dependencies:
     ```bash
    npm install
